@@ -1,0 +1,146 @@
+.version.page_five /* version checker */
+{
+	color: #0000FC;
+	background-color: #EAADA4;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/maryflauge_white.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 649px;
+	background-image: none;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 160px;
+}
+
+#u1939
+{
+	z-index: 15;
+	height: 158px;
+	top: -11px;
+}
+
+#u1939-bw
+{
+	z-index: 15;
+}
+
+#u1940
+{
+	z-index: 16;
+	width: 100px;
+	height: 100px;
+	top: 18px;
+	left: 50%;
+	margin-left: -423px;
+}
+
+#u1941-4
+{
+	z-index: 17;
+	top: 40px;
+	left: 50%;
+	margin-left: -299px;
+}
+
+#u1942-4
+{
+	z-index: 21;
+	top: 85px;
+	left: 50%;
+	margin-left: -299px;
+}
+
+#u2593-4
+{
+	z-index: 6;
+	width: 960px;
+	min-height: 88px;
+	background-color: #C62D33;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	line-height: 37px;
+	font-size: 31px;
+	color: #FFD70D;
+	text-align: center;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2593-2
+{
+	padding: 5px;
+}
+
+#u2595
+{
+	z-index: 14;
+	width: 850px;
+	min-height: 294px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 49px;
+	margin-top: 22px;
+	position: relative;
+}
+
+#pu2512-4
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 2px;
+}
+
+#u2512-4
+{
+	z-index: 2;
+	position: relative;
+	width: 217px;
+	margin-right: -10000px;
+}
+
+#u2774-4
+{
+	z-index: 10;
+	position: relative;
+	width: 304px;
+	margin-right: -10000px;
+	left: 857px;
+}
+
+#u2512-4_img,#u2774-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

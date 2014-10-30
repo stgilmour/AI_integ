@@ -1,0 +1,192 @@
+.version.plege /* version checker */
+{
+	color: #0000FE;
+	background-color: #F102E7;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/maryflauge_white.jpg") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 975px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 49px;
+}
+
+#pu3717
+{
+	width: 0.01px;
+}
+
+#u3717
+{
+	z-index: 2;
+	padding-bottom: 6px;
+}
+
+#u4095
+{
+	z-index: 19;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 32px;
+}
+
+#u4095_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u3718-4
+{
+	z-index: 3;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 166px;
+}
+
+#u3717-bw
+{
+	z-index: 2;
+	height: 122px;
+}
+
+#u3719-4
+{
+	z-index: 7;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 166px;
+}
+
+#u3731-4
+{
+	z-index: 35;
+	display: block;
+	vertical-align: top;
+	margin-left: 163px;
+	margin-top: 41px;
+	position: relative;
+}
+
+#pu3728
+{
+	width: 0.01px;
+	margin-left: 6px;
+	margin-top: 89px;
+}
+
+#u3728
+{
+	z-index: 21;
+	width: 372px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 118px;
+}
+
+#u3730-12
+{
+	z-index: 23;
+	width: 343px;
+	min-height: 116px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 402px;
+}
+
+#u3730-4,#u3730-6
+{
+	font-style: italic;
+}
+
+#u3730-2,#u3730-8,#u3730-10
+{
+	padding: 5px;
+}
+
+#pu3734-4
+{
+	width: 0.01px;
+	margin-left: 74px;
+	margin-top: 224px;
+}
+
+#u3734-4
+{
+	z-index: 15;
+	position: relative;
+	width: 89px;
+	margin-right: -10000px;
+}
+
+#u3733-4
+{
+	z-index: 11;
+	position: relative;
+	width: 100px;
+	margin-right: -10000px;
+	left: 529px;
+}
+
+#u3734-4_img,#u3733-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

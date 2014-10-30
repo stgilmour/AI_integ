@@ -1,0 +1,210 @@
+.version.xf /* version checker */
+{
+	color: #0000E4;
+	background-color: #129C9E;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/maryflauge_white.jpg") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 973.55px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 50.450000000000045px;
+}
+
+#pu3717
+{
+	width: 0.01px;
+}
+
+#u3717
+{
+	z-index: 2;
+	padding-bottom: 6px;
+}
+
+#u4095
+{
+	z-index: 41;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 32px;
+}
+
+#u4095_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u3718-4
+{
+	z-index: 3;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 166px;
+}
+
+#u3717-bw
+{
+	z-index: 2;
+	height: 122px;
+}
+
+#u3719-4
+{
+	z-index: 7;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 166px;
+}
+
+#u3858-4
+{
+	z-index: 11;
+	width: 152px;
+	min-height: 45px;
+	background-color: transparent;
+	line-height: 43px;
+	font-size: 36px;
+	color: #C62D33;
+	font-family: alfa-slab-one, serif;
+	font-weight: 700;
+	margin-left: 308px;
+	margin-top: 32px;
+	position: relative;
+}
+
+#pu3860
+{
+	width: 0.01px;
+	margin-left: 10px;
+	margin-top: 27px;
+}
+
+#u3860
+{
+	z-index: 31;
+	width: 361px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 188px;
+}
+
+#u3859-16
+{
+	z-index: 15;
+	width: 357px;
+	min-height: 177px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	-khtml-border-radius: 7px;
+	border-radius: 7px;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 387px;
+}
+
+#u3859-2
+{
+	color: #FF0000;
+	font-style: italic;
+}
+
+#u3859-3
+{
+	color: #C62D33;
+	font-style: italic;
+}
+
+#u3859-8
+{
+	font-style: italic;
+}
+
+#u3859-4,#u3859-6,#u3859-10,#u3859-12,#u3859-14
+{
+	padding: 5px;
+}
+
+#pu3910-4
+{
+	width: 0.01px;
+	margin-left: 65px;
+	margin-top: 153px;
+}
+
+#u3910-4
+{
+	z-index: 37;
+	position: relative;
+	width: 100px;
+	margin-right: -10000px;
+}
+
+#u3909-4
+{
+	z-index: 33;
+	position: relative;
+	width: 100px;
+	margin-right: -10000px;
+	left: 537px;
+}
+
+#u3910-4_img,#u3909-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

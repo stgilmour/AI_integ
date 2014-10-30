@@ -1,0 +1,245 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1414605192299">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_a-master.css" crc="473950122" ref="index:page_five:page_six:page_four:page_three:end"/>
+    <file name="master_cases.css" crc="4202076503" ref="page_two"/>
+    <file name="index.css" crc="3892820762" ref="index"/>
+    <file name="page_five.css" crc="4243238308" ref="page_five"/>
+    <file name="page_six.css" crc="411061322" ref="page_six"/>
+    <file name="page_four.css" crc="3927942039" ref="page_four"/>
+    <file name="page_three.css" crc="513180006" ref="page_three"/>
+    <file name="end.css" crc="86966302" ref="end"/>
+    <file name="page_two.css" crc="4008764109" ref="page_two"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="phone>index:phone>pledge:phone>cases:phone>chem:phone>16:phone>comp:phone>fa:phone>google:phone>untitled-16:phone>untitled-18:phone>untitled-19:phone>untitled-20:phone>untitled-21:tablet>index:tablet>plege:tablet>cases:tablet>chem:tablet>judicial:tablet>fa:tablet>google:tablet>comp:tablet>16:tablet>xf:tablet>faq:tablet>why:tablet>end:index:page_two:page_four:end:page_three:page_six:page_five"/>
+    <file name="museutils.js" crc="3777594392" ref="phone>index:phone>pledge:phone>cases:phone>chem:phone>16:phone>comp:phone>fa:phone>google:phone>untitled-16:phone>untitled-18:phone>untitled-19:phone>untitled-20:phone>untitled-21:tablet>index:tablet>plege:tablet>cases:tablet>chem:tablet>judicial:tablet>fa:tablet>google:tablet>comp:tablet>16:tablet>xf:tablet>faq:tablet>why:tablet>end:index:page_two:page_four:end:page_three:page_six:page_five"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="phone>index:phone>pledge:phone>cases:phone>chem:phone>16:phone>comp:phone>fa:phone>google:phone>untitled-16:phone>untitled-18:phone>untitled-19:phone>untitled-20:phone>untitled-21:tablet>index:tablet>plege:tablet>cases:tablet>chem:tablet>judicial:tablet>fa:tablet>google:tablet>comp:tablet>16:tablet>xf:tablet>faq:tablet>why:tablet>end:index:page_two:page_four:end:page_three:page_six:page_five"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="phone>index:phone>pledge:phone>cases:phone>chem:phone>16:phone>comp:phone>fa:phone>google:phone>untitled-16:phone>untitled-18:phone>untitled-19:phone>untitled-20:phone>untitled-21:tablet>index:tablet>plege:tablet>cases:tablet>chem:tablet>judicial:tablet>fa:tablet>google:tablet>comp:tablet>16:tablet>xf:tablet>faq:tablet>why:tablet>end:index:page_two:page_four:end:page_three:page_six:page_five"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>pledge:phone>untitled-16:phone>untitled-18:phone>untitled-19:phone>untitled-20:tablet>index:tablet>plege:tablet>judicial:tablet>xf:tablet>faq:tablet>why:index:page_two:page_four:end:page_three:page_six:page_five:tablet>cases:phone>cases"/>
+    <file name="webpro.js" crc="474087315" ref="phone>untitled-19:tablet>faq:page_two:end:page_three"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="phone>untitled-19:tablet>faq:page_three"/>
+    <file name="museredirect.js" crc="17485671" ref="index:end"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="page_two"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="page_two"/>
+    <file name="touchswipe.js" crc="100683906" ref="page_two"/>
+    <file name="form_check.php" crc="306825315" ref="end"/>
+    <file name="form_throttle.php" crc="4293816517" ref="end"/>
+    <file name="form_process.php" crc="109188895" ref="end"/>
+    <file name="form-u1584.php" crc="3896684540" ref="end"/>
+  </folder>
+  <folder name="images">
+    <file name="maryflauge_white.jpg" crc="194627673" ref="phone>index:phone>pledge:phone>cases:phone>chem:phone>16:phone>comp:phone>fa:phone>google:phone>untitled-16:phone>untitled-18:phone>untitled-19:phone>untitled-20:phone>untitled-21:tablet>index:tablet>plege:tablet>cases:tablet>chem:tablet>judicial:tablet>fa:tablet>google:tablet>comp:tablet>16:tablet>xf:tablet>faq:tablet>why:tablet>end:index:page_two:page_four:end:page_three:page_six:page_five"/>
+    <file name="informal seal.gif" crc="175489576" ref="phone>index:phone>pledge:phone>cases:phone>chem:phone>16:phone>comp:phone>fa:phone>google:phone>untitled-16:phone>untitled-18:phone>untitled-19:phone>untitled-20:phone>untitled-21:index:page_two"/>
+    <file name="u3335-4.png" crc="4100796616" ref="phone>index"/>
+    <file name="u3336-4.png" crc="4273442426" ref="phone>index"/>
+    <file name="u3337-4.png" crc="3834455833" ref="phone>index"/>
+    <file name="u3339-4.png" crc="4260383419" ref="phone>index"/>
+    <file name="u3381-4.png" crc="4241692974" ref="phone>pledge"/>
+    <file name="sequence 02.gif" crc="4150896728" ref="phone>pledge:tablet>plege:index"/>
+    <file name="u3671-5.png" crc="335953337" ref="phone>pledge"/>
+    <file name="u3364-4.png" crc="4260383419" ref="phone>pledge"/>
+    <file name="u3382-4.png" crc="262024941" ref="phone>cases"/>
+    <file name="u3710-5.png" crc="335953337" ref="phone>cases"/>
+    <file name="u3709-4.png" crc="4260383419" ref="phone>cases"/>
+    <file name="u3697-4.png" crc="441788138" ref="phone>chem"/>
+    <file name="u3698-4.png" crc="118478265" ref="phone>16"/>
+    <file name="u3699-4.png" crc="3805851470" ref="phone>comp"/>
+    <file name="u3700-4.png" crc="3948398541" ref="phone>fa"/>
+    <file name="u3701-4.png" crc="3923903313" ref="phone>google"/>
+    <file name="u3512-4.png" crc="438586897" ref="phone>untitled-16"/>
+    <file name="u3677-5.png" crc="335953337" ref="phone>untitled-16"/>
+    <file name="u3676-4.png" crc="4260383419" ref="phone>untitled-16"/>
+    <file name="u3529-4.png" crc="459772634" ref="phone>untitled-18"/>
+    <file name="xf.gif" crc="522638839" ref="phone>untitled-18:tablet>xf:page_three"/>
+    <file name="u3679-5.png" crc="335953337" ref="phone>untitled-18"/>
+    <file name="u3678-4.png" crc="4260383419" ref="phone>untitled-18"/>
+    <file name="u3546-4.png" crc="169099186" ref="phone>untitled-19"/>
+    <file name="u3681-5.png" crc="335953337" ref="phone>untitled-19"/>
+    <file name="u3680-4.png" crc="4260383419" ref="phone>untitled-19"/>
+    <file name="u3563-4.png" crc="9063358" ref="phone>untitled-20"/>
+    <file name="lion-king-scar-scar-23037340-500-293.gif" crc="450472957" ref="phone>untitled-20:tablet>why:page_four"/>
+    <file name="barney-himym-true-story.gif" crc="3990754534" ref="phone>untitled-20:tablet>why:page_four"/>
+    <file name="6sxwbnp.gif" crc="285772723" ref="phone>untitled-20:tablet>why:page_four"/>
+    <file name="beiber-graduation-hat.gif" crc="4004754785" ref="phone>untitled-20:tablet>why:page_four"/>
+    <file name="protect this house.gif" crc="4221967012" ref="phone>untitled-20:tablet>why:page_four"/>
+    <file name="u3683-5.png" crc="335953337" ref="phone>untitled-20"/>
+    <file name="u3682-4.png" crc="4260383419" ref="phone>untitled-20"/>
+    <file name="u3582-4.png" crc="4100796616" ref="phone>untitled-21"/>
+    <file name="u3583-4.png" crc="4273442426" ref="phone>untitled-21"/>
+    <file name="u3670-4.png" crc="4170892350" ref="phone>untitled-21"/>
+    <file name="u3685-5.png" crc="335953337" ref="phone>untitled-21"/>
+    <file name="u3718-4.png" crc="310838216" ref="tablet>index:tablet>plege:tablet>cases:tablet>chem:tablet>judicial:tablet>fa:tablet>google:tablet>comp:tablet>16:tablet>xf:tablet>faq:tablet>why:tablet>end"/>
+    <file name="u3719-4.png" crc="4108093054" ref="tablet>index:tablet>plege:tablet>cases:tablet>chem:tablet>judicial:tablet>fa:tablet>google:tablet>comp:tablet>16:tablet>xf:tablet>faq:tablet>why:tablet>end"/>
+    <file name="informal.jpg" crc="134820301" ref="tablet>index:tablet>plege:tablet>cases:tablet>chem:tablet>judicial:tablet>fa:tablet>google:tablet>comp:tablet>16:tablet>xf:tablet>faq:tablet>why:tablet>end"/>
+    <file name="u3714-4.png" crc="4100796616" ref="tablet>index"/>
+    <file name="u3715-4.png" crc="4273442426" ref="tablet>index"/>
+    <file name="u3716-4.png" crc="3834455833" ref="tablet>index"/>
+    <file name="u3813-4.png" crc="396231684" ref="tablet>index"/>
+    <file name="u3814-4.png" crc="504549480" ref="tablet>index"/>
+    <file name="u3815-4.png" crc="114619614" ref="tablet>index"/>
+    <file name="u3816-4.png" crc="3790062" ref="tablet>index"/>
+    <file name="u3711-4.png" crc="359240179" ref="tablet>index"/>
+    <file name="u3731-4.png" crc="3997853227" ref="tablet>plege"/>
+    <file name="u3734-4.png" crc="349693755" ref="tablet>plege"/>
+    <file name="u3733-4.png" crc="4260383419" ref="tablet>plege"/>
+    <file name="u3735-4.png" crc="4180572272" ref="tablet>cases"/>
+    <file name="u3736-4.png" crc="4260383419" ref="tablet>cases"/>
+    <file name="u3802-4.png" crc="4260383419" ref="tablet>cases"/>
+    <file name="u3737-4.png" crc="314376589" ref="tablet>cases"/>
+    <file name="u3803-4.png" crc="314376589" ref="tablet>cases"/>
+    <file name="u3976-4.png" crc="349693755" ref="tablet>chem"/>
+    <file name="u3824-4.png" crc="314376589" ref="tablet>judicial"/>
+    <file name="u3823-4.png" crc="4260383419" ref="tablet>judicial"/>
+    <file name="u3980-4.png" crc="3798549911" ref="tablet>fa"/>
+    <file name="u3979-4.png" crc="3768779904" ref="tablet>google"/>
+    <file name="u3978-4.png" crc="3768779904" ref="tablet>comp"/>
+    <file name="u3977-4.png" crc="349693755" ref="tablet>16"/>
+    <file name="u3910-4.png" crc="314376589" ref="tablet>xf"/>
+    <file name="u3909-4.png" crc="4260383419" ref="tablet>xf"/>
+    <file name="u3893-4.png" crc="310869312" ref="tablet>faq"/>
+    <file name="u3964-4.png" crc="4251063721" ref="tablet>why"/>
+    <file name="u3971-4.png" crc="314376589" ref="tablet>why"/>
+    <file name="u3970-4.png" crc="4260383419" ref="tablet>why"/>
+    <file name="u3974-4.png" crc="4101069127" ref="tablet>end"/>
+    <file name="u3973-4.png" crc="314376589" ref="tablet>end"/>
+    <file name="u1941-4.png" crc="3997596609" ref="index:page_four:end:page_three:page_six:page_five"/>
+    <file name="u1942-4.png" crc="4273442426" ref="index:page_four:end:page_three:page_six:page_five"/>
+    <file name="u1280-4.png" crc="222421651" ref="index"/>
+    <file name="u1426-4.png" crc="3766585782" ref="index"/>
+    <file name="u1428-4.png" crc="3877513749" ref="index"/>
+    <file name="u1417-4.png" crc="4255520060" ref="index"/>
+    <file name="u1427-4.png" crc="56408474" ref="index"/>
+    <file name="u2011-4.png" crc="4260383419" ref="index"/>
+    <file name="u2031-4.png" crc="3997596609" ref="page_two"/>
+    <file name="u2032-4.png" crc="4273442426" ref="page_two"/>
+    <file name="blank.gif" crc="4208392903" ref="page_two"/>
+    <file name="u2706.png" crc="505140756" ref="page_two"/>
+    <file name="u2706-a.png" crc="505140756" ref="page_two"/>
+    <file name="u2719-6.png" crc="117575469" ref="page_two"/>
+    <file name="u2714-6.png" crc="279497680" ref="page_two"/>
+    <file name="u2709-4.png" crc="319384779" ref="page_two"/>
+    <file name="u2711-4.png" crc="482724002" ref="page_two"/>
+    <file name="u2721-4.png" crc="160097331" ref="page_two"/>
+    <file name="u2769.png" crc="213381733" ref="page_two"/>
+    <file name="u2769-a.png" crc="213381733" ref="page_two"/>
+    <file name="u2757-6.png" crc="239219342" ref="page_two"/>
+    <file name="u2759-6.png" crc="72440204" ref="page_two"/>
+    <file name="u2764-4.png" crc="319384779" ref="page_two"/>
+    <file name="u2771-4.png" crc="482724002" ref="page_two"/>
+    <file name="u2773-4.png" crc="160097331" ref="page_two"/>
+    <file name="u2645.png" crc="4216888809" ref="page_two"/>
+    <file name="u2645-a.png" crc="4216888809" ref="page_two"/>
+    <file name="u2658-6.png" crc="3849852568" ref="page_two"/>
+    <file name="u2653-6.png" crc="132328492" ref="page_two"/>
+    <file name="u2648-4.png" crc="319384779" ref="page_two"/>
+    <file name="u2650-4.png" crc="482724002" ref="page_two"/>
+    <file name="u2660-4.png" crc="160097331" ref="page_two"/>
+    <file name="u2625.png" crc="123158919" ref="page_two"/>
+    <file name="u2625-r.png" crc="123158919" ref="page_two"/>
+    <file name="u2625-m.png" crc="123158919" ref="page_two"/>
+    <file name="u2625-a.png" crc="123158919" ref="page_two"/>
+    <file name="u2638-6.png" crc="4224278990" ref="page_two"/>
+    <file name="u2633-6.png" crc="108390165" ref="page_two"/>
+    <file name="u2628-4.png" crc="319384779" ref="page_two"/>
+    <file name="u2630-4.png" crc="482724002" ref="page_two"/>
+    <file name="u2640-4.png" crc="160097331" ref="page_two"/>
+    <file name="u2292.png" crc="3832305266" ref="page_two"/>
+    <file name="u2292-r.png" crc="3832305266" ref="page_two"/>
+    <file name="u2292-m.png" crc="3832305266" ref="page_two"/>
+    <file name="u2292-a.png" crc="3832305266" ref="page_two"/>
+    <file name="u2301-6.png" crc="374483212" ref="page_two"/>
+    <file name="u2620-6.png" crc="398477922" ref="page_two"/>
+    <file name="u2296-4.png" crc="319384779" ref="page_two"/>
+    <file name="u2294-4.png" crc="482724002" ref="page_two"/>
+    <file name="u2298-4.png" crc="160097331" ref="page_two"/>
+    <file name="u2921-4.png" crc="4207906446" ref="page_two"/>
+    <file name="u2056-4.png" crc="6648681" ref="page_two"/>
+    <file name="u2332-4.png" crc="3870836034" ref="page_four"/>
+    <file name="u2331-4.png" crc="3912084275" ref="page_four"/>
+    <file name="u1814-4.png" crc="3958001409" ref="end"/>
+    <file name="u1816-4.png" crc="4113099327" ref="end"/>
+    <file name="u1603-17.png" crc="201684413" ref="end"/>
+    <file name="u1603-17-r.png" crc="3880331647" ref="end"/>
+    <file name="u1603-17-m.png" crc="3880331647" ref="end"/>
+    <file name="u1603-17-fs.png" crc="342997365" ref="end"/>
+    <file name="u2305-4.png" crc="3870836034" ref="page_three"/>
+    <file name="u2304-4.png" crc="3912084275" ref="page_three"/>
+    <file name="u2307-4.png" crc="3870836034" ref="page_six"/>
+    <file name="u2306-4.png" crc="3912084275" ref="page_six"/>
+    <file name="u2512-4.png" crc="4207906446" ref="page_five"/>
+    <file name="u2774-4.png" crc="3912084275" ref="page_five"/>
+    <file name="u4123-4.png" crc="314376589" ref="tablet>faq"/>
+    <file name="u4122-4.png" crc="4260383419" ref="tablet>faq"/>
+    <file name="u4135-4.png" crc="3819758229" ref="phone>cases"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="232784030" ref="tablet>16:tablet>fa:tablet>google:tablet>chem:tablet>xf:tablet>judicial:tablet>comp:tablet>cases:tablet>plege:tablet>end:tablet>faq:tablet>why:tablet>index"/>
+      <file name="16.css" crc="58943733" ref="tablet>16"/>
+      <file name="fa.css" crc="4082443732" ref="tablet>fa"/>
+      <file name="google.css" crc="4172353401" ref="tablet>google"/>
+      <file name="chem.css" crc="10876905" ref="tablet>chem"/>
+      <file name="xf.css" crc="3826424990" ref="tablet>xf"/>
+      <file name="judicial.css" crc="4181398150" ref="tablet>judicial"/>
+      <file name="comp.css" crc="1724554" ref="tablet>comp"/>
+      <file name="cases.css" crc="198076209" ref="tablet>cases"/>
+      <file name="plege.css" crc="4277207783" ref="tablet>plege"/>
+      <file name="end.css" crc="114816856" ref="tablet>end"/>
+      <file name="faq.css" crc="292647622" ref="tablet>faq"/>
+      <file name="why.css" crc="4032811837" ref="tablet>why"/>
+      <file name="index.css" crc="3785996155" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="169647331" mt="1414600881764" redirect="true"/>
+    <file name="plege.html" crc="242040253" mt="1414601165234" redirect="true"/>
+    <file name="cases.html" crc="3912098112" mt="1414604339132" redirect="true"/>
+    <file name="chem.html" crc="3933056023" mt="1414600717191" redirect="true"/>
+    <file name="judicial.html" crc="3957131365" mt="1414600828981" redirect="true"/>
+    <file name="fa.html" crc="3835954833" mt="1414600771464" redirect="true"/>
+    <file name="google.html" crc="221126913" mt="1414600755412" redirect="true"/>
+    <file name="comp.html" crc="477534437" mt="1414600739514" redirect="true"/>
+    <file name="16.html" crc="107174605" mt="1414600725416" redirect="true"/>
+    <file name="xf.html" crc="24564162" mt="1414600991044" redirect="true"/>
+    <file name="faq.html" crc="4004197706" mt="1414601031553" redirect="true"/>
+    <file name="why.html" crc="233325276" mt="1414601058757" redirect="true"/>
+    <file name="end.html" crc="45451843" mt="1414601075565" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3759576955" ref="phone>untitled-19:phone>index:phone>untitled-18:phone>untitled-16:phone>google:phone>fa:phone>cases:phone>comp:phone>16:phone>chem:phone>untitled-21:phone>pledge:phone>untitled-20"/>
+      <file name="untitled-19.css" crc="4163394056" ref="phone>untitled-19"/>
+      <file name="index.css" crc="3935379643" ref="phone>index"/>
+      <file name="untitled-18.css" crc="335620988" ref="phone>untitled-18"/>
+      <file name="untitled-16.css" crc="3918791221" ref="phone>untitled-16"/>
+      <file name="google.css" crc="507772281" ref="phone>google"/>
+      <file name="fa.css" crc="96896465" ref="phone>fa"/>
+      <file name="cases.css" crc="4022737044" ref="phone>cases"/>
+      <file name="comp.css" crc="524863402" ref="phone>comp"/>
+      <file name="16.css" crc="534918297" ref="phone>16"/>
+      <file name="chem.css" crc="3893968690" ref="phone>chem"/>
+      <file name="untitled-21.css" crc="4083355665" ref="phone>untitled-21"/>
+      <file name="pledge.css" crc="3998485301" ref="phone>pledge"/>
+      <file name="untitled-20.css" crc="305316610" ref="phone>untitled-20"/>
+    </folder>
+    <file name="index.html" crc="3760125954" mt="1414599339513" redirect="true"/>
+    <file name="pledge.html" crc="205534714" mt="1414599344127" redirect="true"/>
+    <file name="cases.html" crc="89315738" mt="1414605163166" redirect="true"/>
+    <file name="chem.html" crc="248635625" mt="1414599463208" redirect="true"/>
+    <file name="16.html" crc="246234494" mt="1414599472221" redirect="true"/>
+    <file name="comp.html" crc="59455978" mt="1414599482142" redirect="true"/>
+    <file name="fa.html" crc="4074349036" mt="1414599492952" redirect="true"/>
+    <file name="google.html" crc="110582723" mt="1414599488612" redirect="true"/>
+    <file name="untitled-16.html" crc="392216053" mt="1414599344134" redirect="true"/>
+    <file name="untitled-18.html" crc="4053112166" mt="1414596250677" redirect="true"/>
+    <file name="untitled-19.html" crc="10870898" mt="1414596250677" redirect="true"/>
+    <file name="untitled-20.html" crc="4109920484" mt="1414596250678" redirect="true"/>
+    <file name="untitled-21.html" crc="162447280" mt="1414596250684" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4225983033" mt="1414589188129" redirect="true"/>
+  <file name="page_two.html" crc="215980718" mt="1414594763685" redirect="true"/>
+  <file name="page_four.html" crc="3824206245" mt="1414599456307" redirect="true"/>
+  <file name="end.html" crc="371130050" mt="1414599977248" redirect="true"/>
+  <file name="page_three.html" crc="302045812" mt="1414599453032" redirect="true"/>
+  <file name="page_six.html" crc="4089353082" mt="1414599526344" redirect="true"/>
+  <file name="page_five.html" crc="3838113696" mt="1414599463205" redirect="true"/>
+</manifest>

@@ -1,0 +1,384 @@
+.version.why /* version checker */
+{
+	color: #0000F0;
+	background-color: #5FD33D;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/maryflauge_white.jpg") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 976px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 48px;
+}
+
+#pu3717
+{
+	width: 0.01px;
+}
+
+#u3717
+{
+	z-index: 2;
+	padding-bottom: 6px;
+}
+
+#u4095
+{
+	z-index: 19;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 32px;
+}
+
+#u4095_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u3718-4
+{
+	z-index: 3;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 166px;
+}
+
+#u3717-bw
+{
+	z-index: 2;
+	height: 122px;
+}
+
+#u3719-4
+{
+	z-index: 7;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 166px;
+}
+
+#u3964-4
+{
+	z-index: 97;
+	display: block;
+	vertical-align: top;
+	margin-left: 284px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u3943-11
+{
+	z-index: 21;
+	width: 666px;
+	min-height: 121px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 51px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u3943
+{
+	font-weight: bold;
+}
+
+#ppu3944-10
+{
+	width: 0.01px;
+	margin-left: 13px;
+	margin-top: 26px;
+}
+
+#pu3944-10
+{
+	width: 0.01px;
+	margin-right: -10000px;
+}
+
+#u3944-10
+{
+	z-index: 32;
+	width: 361px;
+	min-height: 121px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u3946
+{
+	z-index: 40;
+	width: 350px;
+	background-color: transparent;
+}
+
+#u3946_clip
+{
+	overflow: hidden;
+	width: 350px;
+	height: 207px;
+}
+
+#u3946_img
+{
+	margin-right: -3px;
+}
+
+#u3952-10
+{
+	z-index: 58;
+	width: 361px;
+	min-height: 121px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u3954
+{
+	z-index: 66;
+	width: 350px;
+	background-color: transparent;
+}
+
+#u3954_img
+{
+	padding-bottom: 8px;
+	vertical-align: bottom;
+}
+
+#u3960-10
+{
+	z-index: 84;
+	width: 361px;
+	min-height: 121px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u3960-6
+{
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#u3962
+{
+	z-index: 92;
+	width: 350px;
+	background-color: transparent;
+}
+
+#u3962_img
+{
+	vertical-align: bottom;
+}
+
+#pu3948-10
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 153px;
+	margin-left: 384px;
+}
+
+#u3948-10
+{
+	z-index: 45;
+	width: 361px;
+	min-height: 121px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u3950
+{
+	z-index: 53;
+	width: 350px;
+	background-color: transparent;
+}
+
+#u3950_clip
+{
+	overflow: hidden;
+	width: 350px;
+	height: 210px;
+}
+
+#u3950_img
+{
+	margin-right: -37px;
+	margin-bottom: 9px;
+}
+
+#u3956-10
+{
+	z-index: 71;
+	width: 361px;
+	min-height: 121px;
+	background-color: #FFFFFF;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u3944-2,#u3952-2,#u3960-2,#u3948-2,#u3956-2
+{
+	color: #C62D33;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#u3944-3,#u3952-3,#u3960-3,#u3948-3,#u3956-3
+{
+	font-size: 1px;
+	line-height: 0px;
+}
+
+#u3957
+{
+	margin-top: 6px;
+	margin-bottom: -6px;
+}
+
+#u3958
+{
+	z-index: 79;
+	width: 350px;
+	background-color: transparent;
+}
+
+#u3958_clip
+{
+	overflow: hidden;
+	width: 350px;
+	height: 195px;
+}
+
+#u3958_img
+{
+	margin-right: -2px;
+}
+
+#u3943-3,#u3943-5,#u3943-7,#u3943-9,#u3944-6,#u3944-8,#u3952-6,#u3952-8,#u3960-8,#u3948-6,#u3948-8,#u3956-6,#u3956-8
+{
+	padding: 5px;
+}
+
+#pu3971-4
+{
+	width: 0.01px;
+	margin-left: 66px;
+	margin-top: 51px;
+}
+
+#u3971-4
+{
+	z-index: 15;
+	position: relative;
+	width: 100px;
+	margin-right: -10000px;
+}
+
+#u3970-4
+{
+	z-index: 11;
+	position: relative;
+	width: 100px;
+	margin-right: -10000px;
+	left: 537px;
+}
+
+#u3971-4_img,#u3970-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

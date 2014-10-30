@@ -1,0 +1,284 @@
+.version.cases /* version checker */
+{
+	color: #0000EF;
+	background-color: #C61894;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/maryflauge_white.jpg") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 569.9667721518987px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	padding-bottom: 21px;
+}
+
+#u3356
+{
+	z-index: 14;
+	padding-bottom: 3px;
+}
+
+#u4113
+{
+	z-index: 15;
+	width: 74px;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: 3px;
+}
+
+#u3382-4
+{
+	z-index: 17;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 22px;
+	left: 154px;
+}
+
+#u3356-bw
+{
+	z-index: 14;
+	height: 68px;
+}
+
+#pu4138-4
+{
+	width: 0.01px;
+	margin-left: 60px;
+	margin-top: 134px;
+}
+
+#u4138-4
+{
+	z-index: 33;
+	width: 102px;
+	min-height: 38px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFD70D;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 16px;
+	color: #C62D33;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u4136-4
+{
+	z-index: 25;
+	width: 104px;
+	min-height: 31px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFD70D;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 16px;
+	color: #C62D33;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	left: 159px;
+}
+
+#pu4137-4
+{
+	width: 0.01px;
+	margin-left: 25px;
+	margin-top: 9px;
+}
+
+#u4137-4
+{
+	z-index: 29;
+	width: 104px;
+	min-height: 20px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFD70D;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	line-height: 19px;
+	font-size: 16px;
+	letter-spacing: 1px;
+	color: #C62D33;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 38px;
+}
+
+#u4135-4
+{
+	z-index: 21;
+	display: block;
+	vertical-align: top;
+	position: relative;
+	margin-right: -10000px;
+	left: 112px;
+}
+
+#u4139-4
+{
+	z-index: 37;
+	width: 104px;
+	min-height: 24px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFD70D;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	line-height: 19px;
+	font-size: 16px;
+	letter-spacing: 1px;
+	color: #C62D33;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 226px;
+}
+
+#u4140-4
+{
+	z-index: 41;
+	width: 104px;
+	min-height: 32px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFD70D;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	font-size: 16px;
+	color: #C62D33;
+	line-height: 19px;
+	letter-spacing: 1px;
+	text-align: center;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	margin-left: 138px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u4138-2,#u4136-2,#u4137-2,#u4139-2,#u4140-2
+{
+	padding: 3px;
+}
+
+#u3601-3
+{
+	z-index: 11;
+	width: 10px;
+	background-color: transparent;
+	margin-left: 1759px;
+	margin-top: 62px;
+	position: relative;
+}
+
+#pu3710-5
+{
+	width: 0.01px;
+	margin-left: 16px;
+	margin-top: 42px;
+}
+
+#u3710-5
+{
+	z-index: 6;
+	position: relative;
+	width: 100px;
+	margin-right: -10000px;
+}
+
+#u3709-4
+{
+	z-index: 2;
+	position: relative;
+	width: 100px;
+	margin-right: -10000px;
+	left: 248px;
+}
+
+#u3710-5_img,#u3709-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

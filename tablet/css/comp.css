@@ -1,0 +1,138 @@
+.version.comp /* version checker */
+{
+	color: #000000;
+	background-color: #1A508A;
+}
+
+@-ms-viewport
+{
+	width: 768px;
+}
+
+@-webkit-viewport
+{
+	width: 768px;
+}
+
+@-o-viewport
+{
+	width: 768px;
+}
+
+@-moz-viewport
+{
+	width: 768px;
+}
+
+@viewport
+{
+	width: 768px;
+}
+
+.html
+{
+	background: #FFFFFF url("../../images/maryflauge_white.jpg") no-repeat center center scroll;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 768px;
+	min-height: 973.9px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 50.10000000000002px;
+}
+
+#pu3717
+{
+	width: 0.01px;
+}
+
+#u3717
+{
+	z-index: 2;
+	padding-bottom: 6px;
+}
+
+#u4095
+{
+	z-index: 19;
+	width: 119px;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 32px;
+}
+
+#u4095_img
+{
+	padding-right: 1px;
+	padding-bottom: 1px;
+}
+
+#u3718-4
+{
+	z-index: 3;
+	margin-right: -10000px;
+	margin-top: 32px;
+	left: 166px;
+}
+
+#u3717-bw
+{
+	z-index: 2;
+	height: 122px;
+}
+
+#u3719-4
+{
+	z-index: 7;
+	margin-right: -10000px;
+	margin-top: 64px;
+	left: 166px;
+}
+
+#u3983-4
+{
+	z-index: 15;
+	width: 388px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 43px;
+	font-size: 36px;
+	color: #C62D33;
+	font-family: alfa-slab-one, serif;
+	font-weight: 700;
+	margin-left: 190px;
+	margin-top: 40px;
+	position: relative;
+}
+
+#u3978-4
+{
+	z-index: 11;
+	margin-left: 340px;
+	margin-top: 734px;
+	position: relative;
+}
+
+#u3978-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 768px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

@@ -1,0 +1,22 @@
+#u1939
+{
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u1940
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/informal%20seal.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u1941-4,#u1942-4
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+

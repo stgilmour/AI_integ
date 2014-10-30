@@ -1,0 +1,483 @@
+.version.page_six /* version checker */
+{
+	color: #000018;
+	background-color: #804C4A;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/maryflauge_white.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1788.8500000000033px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-bottom: -62px;
+	padding-top: 156px;
+}
+
+#u1939
+{
+	z-index: 196;
+	height: 158px;
+	top: -11px;
+}
+
+#u1939-bw
+{
+	z-index: 196;
+}
+
+#u1940
+{
+	z-index: 197;
+	width: 100px;
+	height: 100px;
+	top: 18px;
+	left: 50%;
+	margin-left: -423px;
+}
+
+#u1941-4
+{
+	z-index: 198;
+	top: 40px;
+	left: 50%;
+	margin-left: -299px;
+}
+
+#u1942-4
+{
+	z-index: 202;
+	top: 85px;
+	left: 50%;
+	margin-left: -299px;
+}
+
+#u2897-4
+{
+	z-index: 10;
+	width: 570px;
+	min-height: 52px;
+	background-color: #C62D33;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	line-height: 37px;
+	font-size: 31px;
+	color: #FFD70D;
+	text-align: center;
+	font-family: alfa-slab-one, serif;
+	font-weight: 400;
+	margin-left: 195px;
+	position: relative;
+}
+
+#u2897-2
+{
+	padding: 5px;
+}
+
+#pu2898
+{
+	width: 0.01px;
+	margin-left: -228px;
+	margin-top: 24px;
+}
+
+#u2898
+{
+	z-index: 14;
+	width: 628px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #C62D33;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	position: relative;
+	margin-right: -10000px;
+	left: 512px;
+	padding: 4px 6px 25px 14px;
+}
+
+#u2899-6
+{
+	z-index: 84;
+	width: 532px;
+	min-height: 69px;
+	background-color: transparent;
+	margin-left: 91px;
+	position: relative;
+}
+
+#u2900-6
+{
+	z-index: 90;
+	width: 495px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#u2901-6
+{
+	z-index: 96;
+	width: 521px;
+	min-height: 23px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 36px;
+	position: relative;
+}
+
+#u2902-6
+{
+	z-index: 102;
+	width: 537px;
+	min-height: 71px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u2903-6
+{
+	z-index: 108;
+	width: 412px;
+	min-height: 33px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 17px;
+	position: relative;
+}
+
+#u2904-6
+{
+	z-index: 114;
+	width: 516px;
+	min-height: 32px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u2905-6
+{
+	z-index: 120;
+	width: 524px;
+	min-height: 18px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u2906-6
+{
+	z-index: 126;
+	width: 537px;
+	min-height: 38px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u2906-3
+{
+	padding-bottom: 2px;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+#u2907-6
+{
+	z-index: 132;
+	width: 515px;
+	min-height: 55px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u2908-6
+{
+	z-index: 138;
+	width: 515px;
+	min-height: 40px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u2908-3
+{
+	padding-right: 5px;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+#u2909-6
+{
+	z-index: 144;
+	width: 537px;
+	min-height: 35px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u2911-5
+{
+	z-index: 150;
+	width: 401px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 33px;
+	position: relative;
+}
+
+#u2472-3
+{
+	z-index: 15;
+	width: 5px;
+	background-color: transparent;
+	top: -4px;
+	margin-bottom: -4px;
+	position: relative;
+}
+
+#u2912-6
+{
+	z-index: 155;
+	width: 461px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#u2913-5
+{
+	z-index: 161;
+	width: 282px;
+	min-height: 25px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 36px;
+	position: relative;
+}
+
+#u2911-2,#u2913-2
+{
+	color: #FFD70D;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+#u2914-6
+{
+	z-index: 166;
+	width: 534px;
+	min-height: 25px;
+	background-color: transparent;
+	margin-left: 91px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u2899-3,#u2900-3,#u2901-3,#u2902-3,#u2903-3,#u2904-3,#u2905-3,#u2907-3,#u2909-3,#u2912-3,#u2914-3
+{
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+#u2915-5
+{
+	z-index: 172;
+	width: 534px;
+	min-height: 55px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 91px;
+	margin-top: 4px;
+	position: relative;
+}
+
+#u2916-5
+{
+	z-index: 177;
+	width: 530px;
+	min-height: 64px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 91px;
+	margin-top: 32px;
+	position: relative;
+}
+
+#u2917-5
+{
+	z-index: 182;
+	width: 334px;
+	min-height: 60px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 91px;
+	margin-top: 48px;
+	position: relative;
+}
+
+#u2918-5
+{
+	z-index: 187;
+	width: 526px;
+	min-height: 52px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 91px;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u2899,#u2900,#u2901,#u2902,#u2903,#u2904,#u2905,#u2906,#u2907,#u2908,#u2909,#u2912,#u2914,#u2915,#u2916,#u2917,#u2918
+{
+	color: #FFD70D;
+}
+
+#u2920-4
+{
+	z-index: 192;
+	width: 463px;
+	background-color: transparent;
+	color: #FFD70D;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 91px;
+	margin-top: 45px;
+	position: relative;
+}
+
+#u2748-3
+{
+	z-index: 18;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 969px;
+}
+
+#u2753
+{
+	z-index: 21;
+	width: 357px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 253px;
+}
+
+#u2724-62
+{
+	z-index: 22;
+	width: 357px;
+	min-height: 1275px;
+	background-color: #C62D33;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	-khtml-border-radius: 11px;
+	border-radius: 11px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2724-2,#u2724-3,#u2724-5,#u2724-6,#u2724-8,#u2724-9,#u2724-11,#u2724-12,#u2724-14,#u2724-15,#u2724-17,#u2724-18,#u2724-20,#u2724-21,#u2724-23,#u2724-24,#u2724-26,#u2724-27,#u2724-29,#u2724-30,#u2724-32,#u2724-33,#u2724-35,#u2724-36,#u2724-38,#u2724-39,#u2724-41,#u2724-42,#u2724-44,#u2724-45,#u2724-47,#u2724-48,#u2724-50,#u2724-51,#u2724-53,#u2724-54,#u2724-56,#u2724-57,#u2724-59
+{
+	font-size: 14px;
+	text-align: right;
+	padding-right: 25px;
+	padding-left: 5px;
+	padding-top: 5px;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+#pu2307-4
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u2307-4
+{
+	z-index: 6;
+	position: relative;
+	width: 217px;
+	margin-right: -10000px;
+}
+
+#u2306-4
+{
+	z-index: 2;
+	position: relative;
+	width: 304px;
+	margin-right: -10000px;
+	left: 857px;
+}
+
+#u2307-4_img,#u2306-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-bottom: 29px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
